@@ -1,0 +1,5 @@
+# Optional: TXT/DOCX/SRT/VTT/JSON imports do not require these packages.
+# Install into the same Python environment as 三木的PGM回套软件.
+pypdf>=6.0,<7
+faster-whisper>=1.2,<2
+opencc-python-reimplemented>=0.1.7,<0.2

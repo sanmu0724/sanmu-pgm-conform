@@ -1,0 +1,6 @@
+av==19.0.1
+numpy==2.5.3
+Pillow==12.3.0
+PyQt6==6.11.0
+pyobjc-framework-Vision==12.2.2
+pyaaf2==1.7.1

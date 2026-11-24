@@ -1,0 +1,4 @@
+# Intel macOS speech backend: versions used by the existing offline build.
+onnxruntime==1.23.2
+ctranslate2==4.8.3
+faster-whisper==1.2.1
